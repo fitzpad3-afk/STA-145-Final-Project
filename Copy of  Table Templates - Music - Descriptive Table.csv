@@ -1,0 +1,13 @@
+Table 1: Descriptive Statistics,,,,,
+,Mean,SD,Min,Max,Description
+Woman,0.43,0.49,0,1,Is the artist a woman?
+streams,313945000,457032534,457032534,2.37E+09,Number of streams the song has
+Genre,,,,,Genre song is in
+Pop,NA,NA,NA,NA,Is the song pop?
+Country,0.27,0.44,0,1,Is the song country?
+Category K,,,,,Description of last category here (add more rows if more than 3 categories!)
+American,NA,NA,0,4,Is the artist american?
+explicit lyrics,0.34,0.47,0,1,are there explicit lyrics in the song
+Man,0.57,0.49,0,1,Is the artist a man?
+Band,0.06,0.23,0,1,Description of last category here (add more rows if more than 3 categories!)
+n = SAMPLE SIZE HERE,,,,,
